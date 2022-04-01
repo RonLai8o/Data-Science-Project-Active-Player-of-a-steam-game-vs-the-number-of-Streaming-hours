@@ -1,0 +1,2 @@
+# Data-Science-Project-Active-Player-of-a-steam-game-vs-the-number-of-Streaming-hours
+We want to know if there a relationship between a steam game being watched on a streaming platform and the and the game's number of players? We will focus on Twitch.tv as our streaming platform to gather data on the average viewers per month of games, and we will use the video game distribution service, Steam, to gather data on the average number of player of games being played on steam per month.
